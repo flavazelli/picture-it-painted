@@ -1,0 +1,1 @@
+Cormorant Garamond 500 is bundled locally for headings. Montserrat 400, 500 and 600 is loaded from Google Fonts for body text, navigation and prices. The Mercato wordmark uses the supplied `src/assets/images/mercato.png` artwork.
